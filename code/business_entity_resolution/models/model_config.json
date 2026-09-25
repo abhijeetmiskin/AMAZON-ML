@@ -1,8 +1,11 @@
 {
-  "optimal_threshold": 0.62,
-  "macro_f05": 0.9598476487489822,
-  "macro_precision": 0.9891944444444445,
-  "macro_recall": 0.9204417989417986,
-  "singleton_acc": 0.9714285714285714,
-  "architecture": "Hybrid (Dense GPU + Exact Name + Invariant Address Digits)"
+  "optimal_threshold": 0.7,
+  "max_k": 6,
+  "score_margin": 0.25,
+  "singleton_gate": 0.0,
+  "macro_f05": 0.8425849135917575,
+  "macro_precision": 0.9892066666666673,
+  "macro_recall": 0.7229271428571433,
+  "singleton_acc": 0.9681978798586572,
+  "architecture": "Calibrated 22D LightGBM with Cardinality Capping and Singleton Gating"
 }
