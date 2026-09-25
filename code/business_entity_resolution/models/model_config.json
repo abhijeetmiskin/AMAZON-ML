@@ -1,0 +1,8 @@
+{
+  "optimal_threshold": 0.62,
+  "macro_f05": 0.9598476487489822,
+  "macro_precision": 0.9891944444444445,
+  "macro_recall": 0.9204417989417986,
+  "singleton_acc": 0.9714285714285714,
+  "architecture": "Hybrid (Dense GPU + Exact Name + Invariant Address Digits)"
+}

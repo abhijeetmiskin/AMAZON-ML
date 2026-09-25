@@ -1,0 +1,6 @@
+*.pt
+*.pyc
+__pycache__/
+*.tsv
+!*.tsv.gz
+!*.part_*
